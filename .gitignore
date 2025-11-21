@@ -1,0 +1,4 @@
+bin/
+obj/
+employees.db
+.vs/
